@@ -6,3 +6,4 @@
 @media (width>=889px){.lk\:whitespace-normal{white-space:normal}}
 @media (width>=889px){.lk\:text-xs{font-size:var(--text-xs);line-height:var(--tw-leading,var(--text-xs--line-height))}}
 @media not all and (width>=359px){.max-\[359px\]\:text-h4{font-size:var(--text-h4);line-height:var(--tw-leading,var(--text-h4--line-height))}}
+.tracking-\[-0\.03em\]{letter-spacing:-.03em}
