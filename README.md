@@ -1,3 +1,3 @@
 Учебный кейс редизайна программы лояльности «РЖД Бонус» — интерактивный прототип.
-Сайт: https://lsafrazyan6-svg.github.io/rzd-bonus/
+Сайт: https://lsafrazyan6-svg.github.io/rzd-prototype/
 Не официальный сайт ОАО «РЖД».

@@ -1,1 +1,1 @@
-var e=`/rzd-bonus/assets/logo-night-express-BjgdO_He.svg`;export{e as t};
+var e=`/rzd-prototype/assets/logo-night-express-BjgdO_He.svg`;export{e as t};
