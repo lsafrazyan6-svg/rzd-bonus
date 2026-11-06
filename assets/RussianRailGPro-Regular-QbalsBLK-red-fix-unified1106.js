@@ -1,0 +1,1 @@
+var e=`/rzd-bonus/assets/RussianRailGPro-Regular-DUpHv1ow.otf`;export{e as default};
